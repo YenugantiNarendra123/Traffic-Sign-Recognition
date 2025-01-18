@@ -2,8 +2,7 @@
    The project involves building a Traffic Sign Recognition system using Deep Learning to classify 43 types of traffic signs accurately.
    The primary objective is to enhance road safety by enabling vehicles or systems to detect and interpret traffic signs in real-time.
    
-2. Dataset
-   Dataset Used: German Traffic Sign Recognition Benchmark (GTSRB).
+2. Dataset Used: German Traffic Sign Recognition Benchmark (GTSRB).
    Structure:
    Train Folder: 43 subdirectories (classes) labeled 0–42 with varying numbers of images per class.
    Test Folder: Contains test images for model evaluation.
